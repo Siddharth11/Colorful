@@ -57,7 +57,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Oiling the Color Wheel with Jade + Sass](https://journal.helabs.com/oiling-the-color-wheel-with-jade-sass-5688ceada87c#.frc7e0rj5)
 - [Take color inspiration from the masters](https://medium.com/@WebdesignerDepot/take-color-inspiration-from-the-masters-e9c2bcf1c8e2#.bhc22yxap)
 - [Build a Color Scheme: The Fundamentals](http://tympanus.net/codrops/2012/09/17/build-a-color-scheme-the-fundamentals/)
-- [http://tympanus.net/codrops/2012/02/28/principles-of-color-and-the-color-wheel/](http://tympanus.net/codrops/2012/02/28/principles-of-color-and-the-color-wheel/)
+- [Principles of Color and the Color Wheel](http://tympanus.net/codrops/2012/02/28/principles-of-color-and-the-color-wheel/)
 - [Color and Emotion: What Does Each Hue Mean?](http://tympanus.net/codrops/2012/04/03/color-and-emotion-what-does-each-hue-mean/)
 - [Color Theory for Designers, Part 1: The Meaning of Color](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/)
 - [A Simple Web Developer’s Guide To Color](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
