@@ -2,7 +2,9 @@
 __A curated list of awesome resources to choose your next color scheme.__  
 Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](contributing.md)__ before contributing.
 
-
+#### Table of Contents
+- [Tools](#tools)
+- [Articles](#articles)  
 
 
 ##### Tools
