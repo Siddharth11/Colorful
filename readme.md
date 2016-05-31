@@ -70,7 +70,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [How to create the right emotions with color in web design](http://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
 - [Introduction to Color Theory](http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm)
 - [Picking a color for your brand](http://focuslabllc.com/digest/picking-a-color-for-your-brand)
-
+- [Finessing \`feColorMatrix\`](http://alistapart.com/article/finessing-fecolormatrix)
 
 
 
