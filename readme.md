@@ -36,7 +36,8 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [SassMe](http://sassme.arc90.com/) - Visualize SASS color functions in real-time without compiling.
 - [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
 - [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
-- [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker
+- [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
+- [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - Understand how feColorMatrix works.
 
 <br>
 
