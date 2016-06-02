@@ -1,50 +1,64 @@
+![Header Image](https://images.unsplash.com/photo-1458245375131-cf4fd90e78ac?format=auto&auto=compress&dpr=1&crop=entropy&fit=crop&w=1366&h=905&q=80)
+
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__  
 Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](contributing.md)__ before contributing.
 
-#### Table of Contents
+## Table of Contents
 - [Tools](#tools)
+  - [Libraries](#libraries) 
+  - [Web App](#web-app)
+- [Color Palettes](#color-palettes)
 - [Articles](#articles)  
 
+<br>
 
-##### Tools
+## Tools
+
+#### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
 - [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+- [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
+- [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
+- [Coloor](https://github.com/krasimir/coloor) - Image preloading utility.
+
+<br>
+
+#### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
 - [Colorbrewer2](http://colorbrewer2.org/) - Multi-hue and single-hue palettes for heat maps and data visualization.
-- [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
-- [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
-- [ColorSchemer Studio ](https://www.colorschemer.com/) - Desktop color pick app.
 - [Coolors](https://coolors.co/) - Generate infinite color palettes for your designs and share.
 - [Flat UI Colors](http://flatuicolors.com/) - UI color set.
 - [Material Design Colors](http://www.materialui.co/) -  Material Design Colors, Flat UI Colors and Material Design Icons.
 - [Palettab](http://palettab.com/) - New color palette and font inspiration with every tab (Chrome Extension).
-- [Swiss Style Color Picker](http://www.swisscolors.net/) - Color palettes collection.
-- [Paletton](http://paletton.co) - The Color Scheme Designer.
+- [Paletton](http://paletton.com) - The Color Scheme Designer.
 - [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
 - [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
 - [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-- [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-- [UI Gradients](http://uigradients.com/) - Handpicked collection of beautiful colour gradients.
 - [SassMe](http://sassme.arc90.com/) - Visualize SASS color functions in real-time without compiling.
-- [Color Hex Palettes](http://www.color-hex.com/color-palettes/) - Discover the new color palettes.
 - [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
-- [Color Palettes](http://colorpalettes.net/) - Decorate your house, flat, bedroom, kitchen, living room and wedding with color ideas.
-- [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker
+
+<br><br>
+
+## Color Palettes
+- [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
+- [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
+- [Swiss Style Color Picker](http://www.swisscolors.net/) - Color palettes collection.
+- [UI Gradients](http://uigradients.com/) - Handpicked collection of beautiful colour gradients.
+- [Color Hex Palettes](http://www.color-hex.com/color-palettes/) - Discover the new color palettes.
+- [Color Palettes](http://colorpalettes.net/) - Decorate your house, flat, bedroom, kitchen, living room and wedding with color ideas.
 - [Design Seeds](http://www.design-seeds.com/) - Colors found in nature and the aesthetic of purposeful living.
 - [Gradients](http://thewebrocks.com/demos/gradientsio/v2.html) - Curated gradients.
 - [Colour Names](http://colours.neilorangepeel.com/) - List of colour names in CSS.
 - [LOL Colors](http://www.lolcolors.com/palettes/popular) - Curated color palette inspiration.
 - [BrandColors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces of the world’s greatest artists.
-- [Coloor](https://github.com/krasimir/coloor) - Image preloading utility.
 
+<br><br>
 
-
-
-##### Articles
+## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
 - [Trendy Web Color Palettes and Material Design Color Schemes & Tools](http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html?utm_source=Twitter&utm_medium=Social&utm_campaign=Twitter-Blog-Color&utm_content=Twitter)
 - [How I Work with Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed#.b99s3au3w)
@@ -76,4 +90,5 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
+Image credits - [Daniel Watson](https://unsplash.com/@danielwatsondesign)
