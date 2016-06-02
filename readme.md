@@ -22,8 +22,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor](https://github.com/krasimir/coloor) - Image preloading utility.
 
-<br>
-
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
 - [Colorbrewer2](http://colorbrewer2.org/) - Multi-hue and single-hue palettes for heat maps and data visualization.
@@ -40,7 +38,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker
 
-<br><br>
+<br>
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
@@ -56,7 +54,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [BrandColors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces of the world’s greatest artists.
 
-<br><br>
+<br>
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
