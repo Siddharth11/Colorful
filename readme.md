@@ -1,4 +1,6 @@
-![Header Image](https://images.unsplash.com/photo-1458245375131-cf4fd90e78ac?format=auto&auto=compress&dpr=1&crop=entropy&fit=crop&w=1366&h=905&q=80)
+<p align="center">
+	<img src="color-palette.gif" alt="header image">
+</p>
 
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__  
@@ -82,4 +84,4 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
-Image credits - [Daniel Watson](https://unsplash.com/@danielwatsondesign)
+Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
