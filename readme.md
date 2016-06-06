@@ -11,8 +11,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Palettes](#color-palettes)
 - [Articles](#articles)  
 
-<br>
-
 ## Tools
 
 #### Libraries
@@ -39,8 +37,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
 - [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - Understand how feColorMatrix works.
 
-<br>
-
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
 - [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
@@ -54,8 +50,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [LOL Colors](http://www.lolcolors.com/palettes/popular) - Curated color palette inspiration.
 - [BrandColors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces of the world’s greatest artists.
-
-<br>
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
@@ -84,8 +78,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Introduction to Color Theory](http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm)
 - [Picking a color for your brand](http://focuslabllc.com/digest/picking-a-color-for-your-brand)
 - [Finessing \`feColorMatrix\`](http://alistapart.com/article/finessing-fecolormatrix)
-
-
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
