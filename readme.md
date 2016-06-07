@@ -21,6 +21,9 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor](https://github.com/krasimir/coloor) - Image preloading utility.
+- [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image.
+- [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
@@ -38,6 +41,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
 - [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - Understand how feColorMatrix works.
+- [Random A11y](http://www.randoma11y.com) - Generates a random palette that is a11y friendly.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
@@ -80,6 +84,8 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Introduction to Color Theory](http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm)
 - [Picking a color for your brand](http://focuslabllc.com/digest/picking-a-color-for-your-brand)
 - [Finessing \`feColorMatrix\`](http://alistapart.com/article/finessing-fecolormatrix)
+- [Designing in color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
+- [Color Realism and Color Science](http://web.mit.edu/abyrne/www/ColorRealism.html)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
