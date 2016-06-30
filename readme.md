@@ -42,6 +42,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
 - [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - Understand how feColorMatrix works.
 - [Random A11y](http://www.randoma11y.com) - Generates a random palette that is a11y friendly.
+- [Save My Palette](http://savemypalette.com/) - Save, share, and export your color palettes.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
