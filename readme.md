@@ -87,6 +87,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Finessing \`feColorMatrix\`](http://alistapart.com/article/finessing-fecolormatrix)
 - [Designing in color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b)
 - [Color Realism and Color Science](http://web.mit.edu/abyrne/www/ColorRealism.html)
+- [The Psychology of Color in Marketing and Branding](https://medium.com/swlh/the-psychology-of-color-in-marketing-and-branding-ebb2320a2b0)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
