@@ -57,6 +57,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [LOL Colors](http://www.lolcolors.com/palettes/popular) - Curated color palette inspiration.
 - [BrandColors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces of the world’s greatest artists.
+- [Cohesive Colors](http://javier.xyz/cohesive-colors/) - A tool to create cohesive color schemes.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
