@@ -43,6 +43,14 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - Understand how feColorMatrix works.
 - [Random A11y](http://www.randoma11y.com) - Generates a random palette that is a11y friendly.
 - [Save My Palette](http://savemypalette.com/) - Save, share, and export your color palettes.
+- [Colordot](https://color.hailpixel.com) - A color picker for humans.
+- [Material Palette](http://www.materialpalette.com/) - Material Design color palette generator.
+- [0to255](http://www.0to255.com/) - Find variations of any color.
+- [147 Colors](http://147colors.com/) - Learn CSS color names.
+- [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) - Search Images by Color with Spectrum.
+- [ColRD](http://colrd.com/) - Create and share color inspiration with the world.
+- [CheckMyColours](http://www.checkmycolours.com/) - Check color combinations of all DOM elements for sufficient contrast.
+- [Contrast-A](http://www.dasplankton.de/ContrastA/) -  Inspect color combinations for acceptable contrast and displays.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
