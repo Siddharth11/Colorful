@@ -51,6 +51,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [ColRD](http://colrd.com/) - Create and share color inspiration with the world.
 - [CheckMyColours](http://www.checkmycolours.com/) - Check color combinations of all DOM elements for sufficient contrast.
 - [Contrast-A](http://www.dasplankton.de/ContrastA/) -  Inspect color combinations for acceptable contrast and displays.
+- [Palettable](http://www.palettable.io/) - Generate beautiful color palettes with no prior design knowledge.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
