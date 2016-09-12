@@ -100,6 +100,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Realism and Color Science](http://web.mit.edu/abyrne/www/ColorRealism.html)
 - [The Psychology of Color in Marketing and Branding](https://medium.com/swlh/the-psychology-of-color-in-marketing-and-branding-ebb2320a2b0)
 - [A Guide to Color and Conversion Rates](https://uxplanet.org/a-guide-to-color-and-conversion-rates-f3a28e8e32bb)
+- [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
