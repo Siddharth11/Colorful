@@ -53,7 +53,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Contrast-A](http://www.dasplankton.de/ContrastA/) -  Inspect color combinations for acceptable contrast and displays.
 - [Palettable](http://www.palettable.io/) - Generate beautiful color palettes with no prior design knowledge.
 - [Colorgorical](http://vrl.cs.brown.edu/color) - Generate a palette with n colors.
-- [Color Library](http://colorlibrary.ch/) - Automated Color Separation
+- [Color Library](http://colorlibrary.ch/) - Automated Color Separation.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
@@ -70,6 +70,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces of the world’s greatest artists.
 - [Cohesive Colors](http://javier.xyz/cohesive-colors/) - A tool to create cohesive color schemes.
 - [Colordrop](https://colordrop.io/) - A collection of great looking color palettes.
+- [Open Color](https://yeun.github.io/open-color/) - Colors tested on deuteranopia and protanopia mode.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
