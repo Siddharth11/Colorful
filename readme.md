@@ -53,6 +53,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Contrast-A](http://www.dasplankton.de/ContrastA/) -  Inspect color combinations for acceptable contrast and displays.
 - [Palettable](http://www.palettable.io/) - Generate beautiful color palettes with no prior design knowledge.
 - [Colorgorical](http://vrl.cs.brown.edu/color) - Generate a palette with n colors.
+- [Color Library](http://colorlibrary.ch/) - Automated Color Separation
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
