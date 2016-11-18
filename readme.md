@@ -72,6 +72,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colordrop](https://colordrop.io/) - A collection of great looking color palettes.
 - [Open Color](https://yeun.github.io/open-color/) - Colors tested on deuteranopia and protanopia mode.
 - [ColorClaim](http://www.vanschneider.com/colors) - Subtle color combinations.
+- [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
