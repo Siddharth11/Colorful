@@ -54,6 +54,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Palettable](http://www.palettable.io/) - Generate beautiful color palettes with no prior design knowledge.
 - [Colorgorical](http://vrl.cs.brown.edu/color) - Generate a palette with n colors.
 - [Color Library](http://colorlibrary.ch/) - Automated Color Separation.
+- [Color Supply](http://colorsupplyyy.com/app/) - Inspirational color palettes from designers & illustrators around the world.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
