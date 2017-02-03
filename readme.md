@@ -36,7 +36,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
 - [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
 - [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-- [SassMe](http://sassme.arc90.com/) - Visualize SASS color functions in real-time without compiling.
+- [SassMe](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 - [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
 - [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
@@ -88,7 +88,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [How to Design for Color Blindness](https://medium.com/@usabilla/how-to-design-for-color-blindness-62d4d8ae9f6a#.uujosqblu)
 - [The Principles of UX Choreography](https://medium.com/@becca_u/the-principles-of-ux-choreography-69c91c2cbc2a#.henp1zpjb)
 - [How to create a color story](https://medium.com/design-story/how-to-create-a-color-story-aa75a62bf953#.pclx97jsf)
-- [The Psychology of Color in Marketing](https://medium.com/@gregoryciotti/the-psychology-of-color-in-marketing-74f9b00834a2#.midcws85u)
+- [The Psychology of Color in Marketing](https://www.helpscout.net/blog/psychology-of-color/)
 - [Algorithm for automatic harmonious color selection for the image](https://uxplanet.org/algorithm-for-automatic-harmonious-color-selection-for-the-image-fc26dde69ca1#.5luiehaag)
 - [Oiling the Color Wheel with Jade + Sass](https://journal.helabs.com/oiling-the-color-wheel-with-jade-sass-5688ceada87c#.frc7e0rj5)
 - [Take color inspiration from the masters](https://medium.com/@WebdesignerDepot/take-color-inspiration-from-the-masters-e9c2bcf1c8e2#.bhc22yxap)
