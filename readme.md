@@ -24,6 +24,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 - [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 - [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+- [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
