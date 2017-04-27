@@ -25,6 +25,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 - [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 - [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+- [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
@@ -77,6 +78,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [ColorClaim](http://www.vanschneider.com/colors) - Subtle color combinations.
 - [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 - [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
+- [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
@@ -110,6 +112,8 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [The Psychology of Color in Marketing and Branding](https://medium.com/swlh/the-psychology-of-color-in-marketing-and-branding-ebb2320a2b0)
 - [A Guide to Color and Conversion Rates](https://uxplanet.org/a-guide-to-color-and-conversion-rates-f3a28e8e32bb)
 - [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
+- [Cubehelix, or How I Learned to Love Black & White Printers](http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html)
+- [A colour scheme for the display of astronomical intensity images](http://adsabs.harvard.edu/abs/2011BASI...39..289G)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
