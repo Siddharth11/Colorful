@@ -58,6 +58,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Library](http://colorlibrary.ch/) - Automated Color Separation.
 - [Color Supply](http://colorsupplyyy.com/app/) - Inspirational color palettes from designers & illustrators around the world.
 - [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
+- [Colormind](http://www.colormind.io/) - Colormind is a color scheme generator that uses deep learning.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
