@@ -26,6 +26,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 - [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
 - [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+- [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
