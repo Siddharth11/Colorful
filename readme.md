@@ -29,7 +29,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
 #### Web App
-- [iColorpalette](https://icolorpalette.com) - Create or browse Color palettes by color or themes. Download palette to adobe swatche format (aco, ase) , svg , png or pdf file.
+- [iColorpalette](https://icolorpalette.com) - Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
 - [Colorbrewer2](http://colorbrewer2.org/) - Multi-hue and single-hue palettes for heat maps and data visualization.
 - [Coolors](https://coolors.co/) - Generate infinite color palettes for your designs and share.
