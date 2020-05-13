@@ -30,6 +30,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
 - [tinygradient](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
 - [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+- [Distinct Colors](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
