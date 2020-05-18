@@ -31,6 +31,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [tinygradient](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
 - [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 - [Distinct Colors](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+- [color2k](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
