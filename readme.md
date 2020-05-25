@@ -68,6 +68,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [iColorpalette](https://icolorpalette.com) - Create, browse or export (aco, ase, svg, png, pdf) color palettes by color or themes.
 - [geenes](https://geenes.app/) - Create a color scale in seconds, then export it to sketch or code.
 - [Tints and Shades](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.
+- [Sorted colors](https://enes.in/sorted-colors/) - Sorted named CSS colors in a way that it shows related colors together.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
