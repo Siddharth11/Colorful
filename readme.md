@@ -17,6 +17,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
+- [pigment](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
 - [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
@@ -69,6 +70,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [geenes](https://geenes.app/) - Create a color scale in seconds, then export it to sketch or code.
 - [Tints and Shades](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.
 - [Sorted colors](https://enes.in/sorted-colors/) - Sorted named CSS colors in a way that it shows related colors together.
+- [Croma](https://croma.app) - Generate color palettes from image and colors
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
