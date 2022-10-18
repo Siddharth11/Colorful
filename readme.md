@@ -85,6 +85,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colour Names](http://colours.neilorangepeel.com/) - List of colour names in CSS.
 - [LOL Colors](http://www.lolcolors.com/palettes/popular) - Curated color palette inspiration.
 - [BrandColors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
+- [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces of the world’s greatest artists.
 - [Cohesive Colors](http://javier.xyz/cohesive-colors/) - A tool to create cohesive color schemes.
 - [Colordrop](https://colordrop.io/) - A collection of great looking color palettes.
