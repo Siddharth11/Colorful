@@ -73,6 +73,8 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Croma](https://croma.app) - Generate color palettes from image and colors
 - [Hexcolorpedia](https://hexcolorpedia.com/) - Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes.
+- [AI Color Palette Generator](https://www.loopple.com/color-palette-generator) - Effortlessly Create Stunning Color Schemes
+with AI-Powered Palette Generator.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
