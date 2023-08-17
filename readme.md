@@ -75,6 +75,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes.
 - [AI Color Palette Generator](https://www.loopple.com/color-palette-generator) - Effortlessly Create Stunning Color Schemes
 with AI-Powered Palette Generator.
+- [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
