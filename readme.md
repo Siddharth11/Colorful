@@ -78,7 +78,6 @@ with AI-Powered Palette Generator.
 - [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 
 ## Color Palettes
-- [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
 - [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
 - [Swiss Style Color Picker](http://www.swisscolors.net/) - Color palettes collection.
@@ -101,6 +100,7 @@ with AI-Powered Palette Generator.
 - [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 - [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
 - [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+- [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
