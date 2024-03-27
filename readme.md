@@ -78,7 +78,6 @@ with AI-Powered Palette Generator.
 - [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 - [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
 
-
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
 - [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
