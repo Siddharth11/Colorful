@@ -71,6 +71,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 with AI-Powered Palette Generator.
 - [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 - [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
+- [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
