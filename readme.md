@@ -94,6 +94,7 @@ with AI-Powered Palette Generator.
 - [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 - [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 - [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
+- [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
 
 ## Articles
 - [Trendy Web Color Palettes and Material Design Color Schemes & Tools](http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html?utm_source=Twitter&utm_medium=Social&utm_campaign=Twitter-Blog-Color&utm_content=Twitter)
