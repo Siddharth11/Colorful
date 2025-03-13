@@ -92,12 +92,12 @@ with AI-Powered Palette Generator.
 - [Open Color](https://yeun.github.io/open-color/) - Colors tested on deuteranopia and protanopia mode.
 - [ColorClaim](http://www.vanschneider.com/colors) - Subtle color combinations.
 - [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
-- [Magic Gradient](https://magicgradient.com) - Generate gradients from any keyword with AI.
 - [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
 - [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 - [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 - [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
 - [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
+- [Magic Gradient](https://magicgradient.com) - Generate gradients from any keyword with AI.
 
 ## Articles
 - [Trendy Web Color Palettes and Material Design Color Schemes & Tools](http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html?utm_source=Twitter&utm_medium=Social&utm_campaign=Twitter-Blog-Color&utm_content=Twitter)
