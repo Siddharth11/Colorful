@@ -133,3 +133,4 @@ with AI-Powered Palette Generator.
 
 ### Image credits
 [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
+- [KeyboardTester.click Monitor Color & Banding Test](https://keyboardtester.click/color-test.php) - Free browser tool: 14 color panels with RGB gradients to check display banding (6/8/10-bit panel detection). Important for designers verifying that color schemes display accurately.
