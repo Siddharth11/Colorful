@@ -65,6 +65,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Tints and Shades](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.
 - [Sorted colors](https://enes.in/sorted-colors/) - Sorted named CSS colors in a way that it shows related colors together.
 - [Croma](https://croma.app) - Generate color palettes from image and colors
+- [Image Color Picker](https://codequest.work/generator/image-color-picker/) - Extract color palettes from any image using k-means++ clustering. Export as CSS variables, HEX, RGB, or HSL.
 - [Hexcolorpedia](https://hexcolorpedia.com/) - Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
 - [Atmos](https://atmos.style/) - Everything you need to create color palettes.
 - [AI Color Palette Generator](https://www.loopple.com/color-palette-generator) - Effortlessly Create Stunning Color Schemes
