@@ -74,6 +74,8 @@ with AI-Powered Palette Generator.
 - [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
 - [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
 
+- [Mini-Tools.uk Image Color Picker](https://mini-tools.uk/color-picker) - Pick colors from images or screenshots, crop small areas, and copy HEX, RGB or HSL values.
+
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
 - [Swiss Style Color Picker](http://www.swisscolors.net/) - Color palettes collection.
