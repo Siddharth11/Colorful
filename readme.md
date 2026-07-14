@@ -73,6 +73,7 @@ with AI-Powered Palette Generator.
 - [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
 - [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
 - [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
+- [Color Dictionary](https://codequest.work/generator/color-dictionary/) - A dictionary of ~390 colors (Japanese traditional colors and CSS named colors) with names, HEX/RGB/HSL, meaning and origin, matching palettes, and contrast against black and white. Free, no signup.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
