@@ -73,6 +73,7 @@ with AI-Powered Palette Generator.
 - [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
 - [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
 - [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
+- [Visualise OKLCH](https://github.com/shreyam1008/visualise-oklch) - OKLCH color previews for VS Code and an [interactive guide](https://visualise-oklch.shreyam1008.com.np/) to lightness, chroma, and hue.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
