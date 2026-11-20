@@ -73,6 +73,7 @@ with AI-Powered Palette Generator.
 - [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
 - [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
 - [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
+- [UIColorBlocks](https://uicolorblocks.com) - Free UI color palette generator, Tailwind 50-950 shade scale builder, and WCAG contrast checker with 16 design tools to discover.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
