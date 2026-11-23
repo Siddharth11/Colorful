@@ -73,6 +73,7 @@ with AI-Powered Palette Generator.
 - [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
 - [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
 - [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
+- [Sula Designer](https://sula.ink/designer) - Animated WebGL gradient and shader backgrounds with live color controls, exported as a snippet for HTML, React, Vue, Svelte, Webflow or Framer.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
